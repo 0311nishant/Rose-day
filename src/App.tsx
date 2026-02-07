@@ -1224,7 +1224,7 @@ export function App() {
               Happy Rose Day Bubu 🌹
             </h1>
             <p className="text-lg md:text-xl text-rose-100/90 leading-relaxed mb-5">
-              I know this isn’t a real flower. I wanted to plant one months ago and watch it grow for you. Time didn’t allow that—so I grew this from scratch, for you, my bubu, until the real one blooms.
+              Not a real flower, just something I grew from scratch for you, my bubu, until the real one blooms.
             </p>
             <p className="text-base text-rose-200/70 italic">With all my love ❤️</p>
           </div>
